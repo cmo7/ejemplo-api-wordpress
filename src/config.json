@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "user": "user",
+        "pass": "Bvuj pZEZ NAa3 1lzU abZo DHup"
+    },
+    "url": "https://apitest.nohaywebs.com",
+    "endpoints": {
+        "posts": "/wp-json/wp/v2/posts"
+    }
+}
